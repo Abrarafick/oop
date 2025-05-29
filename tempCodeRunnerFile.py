@@ -1,0 +1,1 @@
+print(f"The name of the restaurant is {my_shop.name}")
